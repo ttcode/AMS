@@ -1,0 +1,20 @@
+/* 
+    Document   : team
+    Created on : 14 mai 2013, 02:51:37
+    Author     : Loyd
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#team_alert
+{
+	font-family: Arial, sans-serif;
+	font-size: 13px;
+	position: absolute;
+	top: 45px;
+	width: 100%;
+	text-align: center;
+	display: none;
+	color: #880014;
+	font-weight: bold;
+}

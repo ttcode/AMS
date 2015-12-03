@@ -1,0 +1,34 @@
+/* 
+    Document   : col_style
+    Created on : 4 mai 2013, 09:01:21
+    Author     : Jean
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.col_left_210
+{
+	width: 210px;
+	float: left;
+	border: 1px solid #bdbfbe;
+	background-color: white;
+	position: relative;
+}
+
+.col_right_800
+{
+	width: 800px;
+	float: right;
+	border: 1px solid #bdbfbe;
+	background-color: white;
+	position: relative;
+}
+
+.col_center_450
+{
+	width: 450px;
+	border: 1px solid #bdbfbe;
+	background-color: white;
+	margin: 0 auto;
+	position: relative;
+}

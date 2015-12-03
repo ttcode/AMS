@@ -1,0 +1,14 @@
+phpMyAdmin connection (Web administration interface)
+
+URL :		https://91.121.192.158/phpmyadmin/
+URL £¨Local£©:	localhost:4880/phpmyadmin/
+User :		c2_airline
+Password :	SFAXQjMQwNa29n8K
+
+
+Database connection information
+
+IP :		91.121.192.158
+User :		c2_airline
+Password :	SFAXQjMQwNa29n8K
+Database Name :	c2_airline
